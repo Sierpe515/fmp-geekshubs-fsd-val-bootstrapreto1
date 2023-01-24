@@ -1,0 +1,26 @@
+body {
+    background-image: url(../img/5183000.jpg);
+    /* background-size: cover;
+    background-position: 0px, 1500px;
+    background-repeat: no-repeat; */
+}
+
+.container {
+    background-color: azure;
+    height: 720px;
+}
+
+.lorem {
+    background-color: aquamarine;
+    height: 150px;
+}
+
+.login {
+    background-color: blueviolet;
+    height: 300px;
+}
+
+.logicons {
+    background-color: palevioletred;
+    height: 150px;
+}
