@@ -6,21 +6,82 @@ body {
 }
 
 .container {
-    background-color: azure;
     height: 720px;
 }
 
+.box1 {
+}
+
 .lorem {
-    background-color: aquamarine;
     height: 150px;
+    margin-top: 75px;
+    padding: 20px;
+    color: white;
+    text-shadow: 1px 1px 4px rgba(128, 128, 128, 0.644);
+}
+
+.logintitle {
+    font-size: large;
+}
+
+.lorem19 {
+    font-size: small;
 }
 
 .login {
-    background-color: blueviolet;
+    background-color: white;
     height: 300px;
+    color: rgb(179, 179, 179);
+}
+
+.logsq1 {
+    padding: 20px;
+}
+
+.logsq2 {
+    background-color: rgb(190, 190, 190);
+    padding: 20px;
+}
+
+.logintitle2 {
+    font-size: large;
+}
+
+.logintext {
+    font-size: small;
 }
 
 .logicons {
-    background-color: palevioletred;
     height: 150px;
+    padding: 20px;
+    color: white;
+    text-shadow: 1px 1px 4px rgb(145, 145, 145);
+}
+
+.loginicons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: small;
+}
+
+.fb {
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+.twitter {
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+.google {
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
 }
