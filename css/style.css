@@ -9,13 +9,15 @@ body {
     height: 720px;
 }
 
+.box {
+    height: 100%;
+}
+
 .box1 {
 }
 
 .lorem {
     height: 150px;
-    margin-top: 75px;
-    padding: 20px;
     color: white;
     text-shadow: 1px 1px 4px rgba(128, 128, 128, 0.644);
 }
